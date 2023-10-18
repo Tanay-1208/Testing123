@@ -4,4 +4,4 @@ class Greeting :
     var= ("Hello " + name + "!")
 
 obj1= Greeting()
-print(obj1.var)
+print(obj1.var1)
